@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "preferences": {
+    "flow": {
+      "value": "automation",
+      "confirmed_in": [
+        "cb-medical-agent-demo"
+      ],
+      "updated_at": "2026-08-03T07:56:55.859Z"
+    },
+    "storyboard": {
+      "value": "yes",
+      "confirmed_in": [
+        "cb-medical-agent-demo"
+      ],
+      "updated_at": "2026-08-03T07:56:55.929Z"
+    }
+  },
+  "sightings": {}
+}

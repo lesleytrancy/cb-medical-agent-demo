@@ -1,0 +1,78 @@
+- generic [ref=f4e3]:
+  - complementary [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - generic [ref=f4e6]: +
+      - generic [ref=f4e7]:
+        - generic [ref=f4e8]: 川北医学院
+        - generic [ref=f4e9]: 智能医学教学平台
+    - navigation [ref=f4e10]:
+      - button "教学驾驶舱" [ref=f4e11] [cursor=pointer]
+      - button "病例发布" [ref=f4e13] [cursor=pointer]
+      - button "学生成长桌面" [ref=f4e15] [cursor=pointer]
+      - button "虚拟急诊 VSP" [ref=f4e17] [cursor=pointer]
+      - button "决策与转归" [ref=f4e19] [cursor=pointer]
+      - button "学习报告" [ref=f4e21] [cursor=pointer]
+      - button "教师干预" [ref=f4e23] [cursor=pointer]
+    - generic [ref=f4e25]:
+      - generic [ref=f4e26]: 演示环境 · DEMO
+      - generic [ref=f4e27]: 全部数据为 Mock 数据教师拥有最终控制权
+  - generic [ref=f4e28]:
+    - generic [ref=f4e29]:
+      - generic [ref=f4e30]:
+        - generic [ref=f4e31]: 临床教学中心 / 2026级临床医学1班
+        - generic [ref=f4e32]: 虚拟急诊 VSP
+      - button "4 个 Agent 正在协作" [ref=f4e137] [cursor=pointer]
+      - generic [ref=f4e35]: 林
+    - main [ref=f4e36]:
+      - generic [ref=f4e107]:
+        - generic [ref=f4e108]:
+          - generic [ref=f4e109]:
+            - generic [ref=f4e110]:
+              - generic [ref=f4e111]: HR
+              - generic [ref=f4e112]: "96"
+            - generic [ref=f4e113]:
+              - generic [ref=f4e114]: BP
+              - generic [ref=f4e115]: 104/68
+            - generic [ref=f4e116]:
+              - generic [ref=f4e117]: SpO₂
+              - generic [ref=f4e118]: 96%
+          - generic [ref=f4e120]: 21:42
+          - generic [ref=f4e124]:
+            - text: 虚拟标准化病人 · 周志强
+            - generic [ref=f4e125]: 意识清醒，焦虑，胸痛 4/10 · 可拖拽旋转模型
+        - generic [ref=f4e126]:
+          - generic [ref=f4e127]:
+            - button "问诊" [ref=f4e128] [cursor=pointer]
+            - button "查体" [ref=f4e129] [cursor=pointer]
+            - button "检查" [ref=f4e130] [cursor=pointer]
+            - button "医嘱" [ref=f4e131] [cursor=pointer]
+          - generic [ref=f4e149]:
+            - button "阿司匹林 300mg 点击选择 / 查看反馈" [ref=f4e150] [cursor=pointer]:
+              - generic [ref=f4e151]: 阿司匹林 300mg
+              - generic [ref=f4e152]: 点击选择 / 查看反馈
+            - button "吸氧 点击选择 / 查看反馈" [ref=f4e153] [cursor=pointer]:
+              - generic [ref=f4e154]: 吸氧
+              - generic [ref=f4e155]: 点击选择 / 查看反馈
+            - button "硝酸甘油 点击选择 / 查看反馈" [ref=f4e156] [cursor=pointer]:
+              - generic [ref=f4e157]: 硝酸甘油
+              - generic [ref=f4e158]: 点击选择 / 查看反馈
+            - button "启动再灌注流程 点击选择 / 查看反馈" [ref=f4e159] [cursor=pointer]:
+              - generic [ref=f4e160]: 启动再灌注流程
+              - generic [ref=f4e161]: 点击选择 / 查看反馈
+          - button "安全校验并提交医嘱" [active] [ref=f4e162] [cursor=pointer]
+  - generic [ref=f4e94]:
+    - generic [ref=f4e95]:
+      - generic [ref=f4e96]: Agent 协作过程
+      - button "关闭" [ref=f4e97] [cursor=pointer]
+    - generic [ref=f4e140]:
+      - generic [ref=f4e141]: VSP 对话 Agent
+      - generic [ref=f4e142]: 生成符合病情与性格的回答
+    - generic [ref=f4e143]:
+      - generic [ref=f4e144]: 症状抽取 Agent
+      - generic [ref=f4e145]: 胸骨后压榨痛 · 左肩放射
+    - generic [ref=f4e101]:
+      - generic [ref=f4e102]: 知识图谱 Agent
+      - generic [ref=f4e103]: 关联 ACS → STEMI 路径
+    - generic [ref=f4e146]:
+      - generic [ref=f4e147]: 苏格拉底导师
+      - generic [ref=f4e148]: 你还需排除哪种致命胸痛？

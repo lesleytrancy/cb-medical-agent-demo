@@ -1,0 +1,94 @@
+- generic [ref=f4e3]:
+  - complementary [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - generic [ref=f4e6]: +
+      - generic [ref=f4e7]:
+        - generic [ref=f4e8]: 川北医学院
+        - generic [ref=f4e9]: 智能医学教学平台
+    - navigation [ref=f4e10]:
+      - button "教学驾驶舱" [ref=f4e11] [cursor=pointer]
+      - button "病例发布" [ref=f4e13] [cursor=pointer]
+      - button "学生成长桌面" [ref=f4e15] [cursor=pointer]
+      - button "虚拟急诊 VSP" [ref=f4e17] [cursor=pointer]
+      - button "决策与转归" [ref=f4e19] [cursor=pointer]
+      - button "学习报告" [ref=f4e21] [cursor=pointer]
+      - button "教师干预" [ref=f4e23] [cursor=pointer]
+    - generic [ref=f4e25]:
+      - generic [ref=f4e26]: 演示环境 · DEMO
+      - generic [ref=f4e27]: 全部数据为 Mock 数据教师拥有最终控制权
+  - generic [ref=f4e28]:
+    - generic [ref=f4e29]:
+      - generic [ref=f4e30]:
+        - generic [ref=f4e31]: 临床教学中心 / 2026级临床医学1班
+        - generic [ref=f4e32]: 教学驾驶舱
+      - button "3 个 Agent 正在协作" [ref=f4e33] [cursor=pointer]
+      - generic [ref=f4e35]: 林
+    - main [ref=f4e36]:
+      - generic [ref=f4e37]:
+        - emphasis [ref=f4e38]: TEACHER COMMAND CENTER
+        - heading "全班教学态势" [level=1] [ref=f4e39]
+        - paragraph [ref=f4e40]: 教师决策在前，Agent 持续汇总过程数据并提出可解释建议。
+        - generic [ref=f4e41]:
+          - generic [ref=f4e42]:
+            - generic [ref=f4e43]: 在学学生
+            - generic [ref=f4e44]: "32"
+            - text: 全员已登录
+          - generic [ref=f4e45]:
+            - generic [ref=f4e46]: 本周实训完成率
+            - generic [ref=f4e47]: 78%
+            - text: 较上周 +12%
+          - generic [ref=f4e48]:
+            - generic [ref=f4e49]: 平均临床思维
+            - generic [ref=f4e50]: "74"
+            - text: 目标值 80
+          - generic [ref=f4e51]:
+            - generic [ref=f4e52]: 待教师干预
+            - generic [ref=f4e53]: "03"
+            - text: 需要复核
+        - generic [ref=f4e54]:
+          - generic [ref=f4e55]:
+            - emphasis [ref=f4e56]: 今日核心实训
+            - heading "急性心肌梗死 · 急诊黄金30分钟" [level=2] [ref=f4e57]
+            - paragraph [ref=f4e58]: 从开放式问诊到再灌注决策，多智能体共同驱动虚拟标准化病人的病情演变。
+            - button "配置并发布案例" [ref=f4e59] [cursor=pointer]
+          - generic [ref=f4e60]:
+            - generic [ref=f4e61]: 建议完成时长
+            - generic [ref=f4e62]: 30:00
+            - generic [ref=f4e63]: 覆盖 47 个知识节点
+        - generic [ref=f4e64]:
+          - generic [ref=f4e65]:
+            - heading "班级能力概览" [level=3] [ref=f4e66]
+            - generic [ref=f4e67]:
+              - generic [ref=f4e68]: 知识掌握
+              - strong [ref=f4e71]: 82%
+            - generic [ref=f4e72]:
+              - generic [ref=f4e73]: 临床思维
+              - strong [ref=f4e76]: 74%
+            - generic [ref=f4e77]:
+              - generic [ref=f4e78]: 操作熟练
+              - strong [ref=f4e81]: 68%
+          - generic [ref=f4e82]:
+            - heading "高频薄弱点" [level=3] [ref=f4e83]
+            - generic [ref=f4e84]:
+              - generic [ref=f4e86]:
+                - text: ST段抬高判读
+                - generic [ref=f4e87]: 8名学生 · 连续2次低于标准
+              - emphasis [ref=f4e88]: 高
+            - generic [ref=f4e89]:
+              - generic [ref=f4e91]:
+                - text: 再灌注时间窗
+                - generic [ref=f4e92]: 6名学生 · 决策平均延迟4.2分钟
+              - emphasis [ref=f4e93]: 中
+  - generic [ref=f4e94]:
+    - generic [ref=f4e95]:
+      - generic [ref=f4e96]: Agent 协作过程
+      - button "关闭" [ref=f4e97] [cursor=pointer]
+    - generic [ref=f4e98]:
+      - generic [ref=f4e99]: 教学编排 Agent
+      - generic [ref=f4e100]: 汇总课程目标与班级画像
+    - generic [ref=f4e101]:
+      - generic [ref=f4e102]: 知识图谱 Agent
+      - generic [ref=f4e103]: 更新 AMI 跨学科节点
+    - generic [ref=f4e104]:
+      - generic [ref=f4e105]: 预警 Agent
+      - generic [ref=f4e106]: 发现 3 条待教师处理事项
